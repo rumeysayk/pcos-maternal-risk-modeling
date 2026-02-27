@@ -46,7 +46,7 @@ SHAP analysis identified clinically meaningful predictors:
 
 ## Project Structure
 
-pcos-maternal-clinical-modeling/
+pcos-maternal-risk-modeling
 │
 ├── data/ # Raw and processed datasets
 ├── notebooks/ # Modeling notebooks
